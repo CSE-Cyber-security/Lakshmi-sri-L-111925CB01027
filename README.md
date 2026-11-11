@@ -58,9 +58,6 @@ This project demonstrates how Python can be used to develop a basic expense mana
 - Generate monthly expense reports.
 - Improve the user interface.
 
-👩‍💻 Developed By
-
-Lakshmisri L
 
 📌 Project Type
 
